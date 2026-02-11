@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'CirceRounded-Regular';
+   font-display: swap;
+   src: url('CirceRounded-Regular/font.woff');
+}
+@font-face {
+   font-family: 'CirceRounded-AltBold';
+   font-display: swap;
+   src: url('CirceRounded-AltBold/font.woff');
+}
